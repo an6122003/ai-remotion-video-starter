@@ -4,6 +4,10 @@ Create videos with Remotion and an AI coding assistant such as Codex or Claude C
 
 This repository is for people who want to make animated videos without manually writing every line of code. You describe the video you want, the AI edits the project, and Remotion Studio lets you preview and render the result.
 
+## Choose Your Language
+
+[English Guide](#english-guide) | [Hướng Dẫn Tiếng Việt](#hướng-dẫn-tiếng-việt)
+
 ## English Guide
 
 ### What This Is
