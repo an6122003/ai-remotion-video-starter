@@ -1,16 +1,17 @@
 {
-  "name": "Remotion",
+  "name": "ai-remotion-video-starter",
   "version": "1.0.0",
-  "description": "My Remotion video",
+  "description": "A Remotion starter project for creating videos with AI coding agents.",
   "repository": {},
-  "license": "UNLICENSED",
+  "license": "MIT",
   "private": true,
   "dependencies": {
     "@remotion/cli": "4.0.454",
+    "@remotion/sfx": "4.0.454",
+    "@remotion/tailwind-v4": "4.0.454",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "remotion": "4.0.454",
-    "@remotion/tailwind-v4": "4.0.454",
     "tailwindcss": "4.0.0"
   },
   "devDependencies": {
